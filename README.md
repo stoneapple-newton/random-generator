@@ -20,7 +20,9 @@ size: 1372 bytes
 using namespace std;
 int main(int argc, char const *argv[])
 {
-	
+	ran_gen_c gen;
+    gen.srand();
+    cout << gen.rand32();
 	return 0;
 }
 ```
