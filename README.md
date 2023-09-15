@@ -2,7 +2,7 @@
 this repository is a C++ light-weight random library.
 # version and size
 version: v1.0
-size: 1372 bytes
+size: 1257 bytes
 
 ## How to use
 1.install this `ran_gen.h` file.

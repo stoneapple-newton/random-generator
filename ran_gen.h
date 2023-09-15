@@ -54,12 +54,4 @@ public:
 	}
 
 };
-int main() {
-	ran_gen_c k;
-	k.srand();
-	for(int i = 1;i <= 10;i++){
-		cout << k.randf64() << endl;
-	}
-	return 0;
-}
 #endif
